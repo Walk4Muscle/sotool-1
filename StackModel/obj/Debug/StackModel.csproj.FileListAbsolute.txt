@@ -1,0 +1,4 @@
+C:\Users\v-jayao\Source\Repos\SODeliverTool\StackoverflowDeliveryTool\StackModel\bin\Debug\StackModel.dll
+C:\Users\v-jayao\Source\Repos\SODeliverTool\StackoverflowDeliveryTool\StackModel\bin\Debug\StackModel.pdb
+C:\Users\v-jayao\Source\Repos\SODeliverTool\StackoverflowDeliveryTool\StackModel\obj\Debug\StackModel.dll
+C:\Users\v-jayao\Source\Repos\SODeliverTool\StackoverflowDeliveryTool\StackModel\obj\Debug\StackModel.pdb

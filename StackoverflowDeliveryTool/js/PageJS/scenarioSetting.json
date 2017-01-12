@@ -1,0 +1,360 @@
+﻿{
+  "selectoptions": [
+    {
+      "groupname": "Azure All Tags",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azurealltags",
+        "value": "",
+        "text": "Azure All Tags"
+      },
+      "category": ""
+    },
+    {
+      "groupname": "Open Source On Azure",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "opensourceall",
+        "value": " Open Source on Azure All",
+        "text": "Open Source on Azure All"
+      },
+      "category": "Azure"
+    },
+    {
+      "groupname": "Azure Storage & Data",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "AzureStorageAll",
+        "value": " Azure Storage All",
+        "text": "Azure Storage All"
+      },
+      "category": "AzureStorage&Data"
+    },
+    {
+      "groupname": ".Net on Azure",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "NetonAzureAll",
+        "value": ".Net on Azure All",
+        "text": ".Net on Azure All"
+      },
+      "category": "NETonAzure"
+    },
+    {
+      "groupname": "Azure Services",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "AzureServiceAll",
+        "value": "Azure Service All",
+        "text": "Azure Service All"
+      },
+      "category": "AzureServices"
+    },
+    {
+      "groupname": "Azure Tools",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "AzureToolsAll",
+        "value": "Azure Tools All",
+        "text": "Azure Tools All"
+      },
+      "category": "AzureTools"
+    },
+    {
+      "groupname": "Azure AD",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "AzureADAll",
+        "value": "Azure AD All",
+        "text": "Azure AD All"
+      },
+      "category": "AzureAD"
+    },
+    {
+      "groupname": "C# on Azure",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "csonazure",
+        "value": "C# on Azure All",
+        "text": "C# on Azure All"
+      },
+      "category": "C#OnAzure"
+    },
+    {
+      "groupname": "DocumentDB",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "documentdb",
+        "value": "DocumentDB All",
+        "text": "DocumentDB All"
+      },
+      "category": "DocumentDB"
+    },
+    {
+      "groupname": "Service Bus",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "servicebusall",
+        "value": "Service Bus All",
+        "text": "Service Bus All"
+      },
+      "category": "ServiceBus"
+    },
+    {
+      "groupname": "Azure Resource Manager",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azureresourcemanager",
+        "value": "Azure Resource Manager All",
+        "text": "Azure Resource Manager All"
+      },
+      "category": "AzureResourceManager"
+    },
+    {
+      "groupname": "Azure Mobile Service",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azuremobileservice",
+        "value": "Azure Mobile Service All",
+        "text": "Azure Mobile Service All"
+      },
+      "category": "AzureMobileService"
+    },
+    {
+      "groupname": "Azure Xamarin ",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azurexamarin",
+        "value": "Azure Xamarin All",
+        "text": "Azure Xamarin All"
+      },
+      "category": "XamarinAzure"
+    },
+
+    {
+      "groupname": "Xamarin UWP",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "uwpxamarinall",
+        "value": "Xamarin UWP All",
+        "text": "Xamarin UWP All"
+      },
+      "category": "XamarinUWP"
+
+    },
+    {
+      "groupname": "Xamarin Android",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "androidxamarinall",
+        "value": "Xamarin Android All",
+        "text": "Xamarin Android All"
+      },
+      "category": "XamarinAndroid"
+
+    },
+    {
+      "groupname": "Azure Ruby",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azureruby",
+        "value": "Azure Ruby All",
+        "text": "Azure Ruby All"
+      },
+      "category": "Azure&Ruby"
+    },
+    {
+      "groupname": "Visual Studio",
+      "scenarios": [
+        {
+          "id": "msbuild",
+          "Category": "MSBuild",
+          "Name": "MSBuild"
+        },
+        {
+          "id": "nuget",
+          "Category": "Nuget",
+          "Name": "Nuget"
+        },
+        {
+          "id": "installation",
+          "Category": "VS-Installation",
+          "Name": "VS-Installation"
+        },
+        {
+          "id": "debugging",
+          "Category": "Debugging",
+          "Name": "Debugging"
+        },
+        {
+          "id": "version-git",
+          "Category": "Git-Version-Control",
+          "Name": "Git-Version-Control"
+        },
+        {
+          "id": "extension",
+          "Category": "VS-Extension",
+          "Name": "VS-Extension"
+        },
+        {
+          "id": "intellisense",
+          "Category": "VS-Intelligence",
+          "Name": "VS-Intelligence"
+        }
+      ],
+      "selectall": {
+        "scenario": "vsall",
+        "value": "Visual Studio All",
+        "text": "Visual Studio All"
+      },
+      "category": "custom"
+    },
+    {
+      "groupname": "Azure SQL & MySQL",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azuresqlall",
+        "value": "Azure SQL & MySQL All",
+        "text": "Azure SQL & MySQL All"
+      },
+      "category": "SQLAzure,AzureMySQL"
+    },
+    {
+      "groupname": "Mobility",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "mobilityall",
+        "value": "Mobility All",
+        "text": "Mobility All"
+      },
+      "category": "Mobility"
+    },
+    {
+      "groupname": "Windows IOT",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "iotall",
+        "value": "Windows IOT All",
+        "text": "Windows IOT All"
+      },
+      "category": "WindowsIOT"
+    },
+    {
+      "groupname": "VSALM",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "vsalmall",
+        "value": "VSALM All",
+        "text": "VSALM All"
+      },
+      "category": "VSALM"
+    },
+    {
+      "groupname": "VSO",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "vsoall",
+        "value": "VSO All",
+        "text": "VSO All"
+      },
+      "category": "VSO"
+    },
+    {
+      "groupname": "Win10",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "win10all",
+        "value": "Win10 All",
+        "text": "Win10 All"
+      },
+      "category": "WIN10"
+    },
+    {
+      "groupname": "UWP",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "uwpall",
+        "value": "UWP All",
+        "text": "UWP All"
+      },
+      "category": "UWP"
+    },
+    {
+      "groupname": "UWP-Win10",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "uwpwin10",
+        "value": "uwp-win10 All",
+        "text": "uwp-win10 All"
+      },
+      "category": "UWPWin10"
+    },
+    {
+      "groupname": "Office 365",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "o365all",
+        "value": "O365 All",
+        "text": "O365 All"
+      },
+      "category": "O365"
+    },
+    {
+      "groupname": "VS Tools for Cordova",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "cordovaall",
+        "value": "cordovaall",
+        "text": "Cordova All"
+      },
+      "category": "VSForCordova"
+    },
+    {
+      "groupname": "Hockey",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "hockeyall",
+        "value": "Hockey All",
+        "text": "Hockey All"
+      },
+      "category": "Hockey"
+    },
+    {
+      "groupname": "Dev Center",
+      "scenarios": [
+        {
+          "id": "storedev",
+          "Category": "DevCenter",
+          "Name": "Dev Center Supported"
+        }
+
+      ],
+      "selectall": {
+        "scenario": "devcenterall",
+        "value": "Dev Center All",
+        "text": "Dev Center All"
+      },
+      "category": "DevCenter"
+    },
+    {
+      "groupname": "Azure Hybrid Linux",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "azurehybridlinuxall",
+        "value": "Azure Hybrid Linux All",
+        "text": "Azure Hybrid Linux All"
+      },
+      "category": "AzureHybridLinux"
+    },
+    {
+      "groupname": "All",
+      "scenarios": [],
+      "selectall": {
+        "scenario": "all",
+        "value": "",
+        "text": "All"
+      },
+      "category": "all"
+    }
+  ]
+}
